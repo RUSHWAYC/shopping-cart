@@ -15,7 +15,7 @@ const storeItems =
     {
       "id": 3,
       "name": "Banana",
-      "price": 1.05,
+      "price": 1.1,
       "imgUrl": "/imgs/banana.jpg"
     },
     {
